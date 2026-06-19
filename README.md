@@ -15,7 +15,7 @@ Visualization & Insights (Power BI): Build an interactive dashboard that highlig
 Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -27,7 +27,7 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+2. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
       - Create a database in SQL
 
@@ -37,13 +37,13 @@ Report and Presentation: Write a clear project report summarizing your key findi
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+3. **Connect the SQL Database to Power BI**
 
       - Open **customer_behavior_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
   
-6. **Create Project Report and Presentation**
+4. **Create Project Report and Presentation**
 
       - Create project report
    
